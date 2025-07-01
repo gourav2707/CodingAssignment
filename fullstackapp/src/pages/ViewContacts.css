@@ -1,0 +1,22 @@
+.view-contacts-page {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  
+}
+
+.contacts-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.contacts-table th,
+.contacts-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.contacts-table th {
+  background-color: #f0f0f0;
+}

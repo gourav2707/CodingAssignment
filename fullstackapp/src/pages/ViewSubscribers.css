@@ -1,0 +1,20 @@
+.view-subscribers-page {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+   background-size: cover;
+   
+  background-repeat: no-repeat;
+   
+   
+}
+
+.subscriber-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1rem;
+}
+
+.subscriber-list li {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}

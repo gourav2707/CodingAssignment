@@ -1,0 +1,127 @@
+ 
+.contact-page {
+   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+   
+   background-image: url('E:\Coding Assignment\fullstackapp\public\assets\images\young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home 1.svg');
+  color: #333; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  padding-bottom: 150px;
+  padding-top: 100px;
+}
+
+.contact-container {
+  background-color: rgb(65, 60, 94);
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding:15px;
+   margin-left: 100px;
+  width: 250px;
+  text-align: center;
+}
+
+.contact-container h2 {
+  color: #ffffff;
+  margin-bottom: 10px;
+  font-size: 30px;
+   
+  padding-bottom: 10px;
+}
+
+ 
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+   
+}
+
+.contact-form input {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+
+}
+
+ 
+
+.contact-form button {
+  padding: 1rem;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+ 
+
+ 
+.consultation-heading {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #eef0f3;
+  font-size:50px;
+  padding-left: 150px;
+  font-weight: 300;
+}
+
+.consultation-heading strong {
+  font-weight: 600;
+  color: #fefeff;
+}
+
+ .newsletter-page {
+   
+   
+  padding: 3rem 1rem;
+  font-family: Arial, sans-serif;
+  background: rgb(44, 90, 255);
+}
+
+.newsletter-box {
+  background: rgb(44, 90, 255);
+  padding: 2rem;
+  border-radius: 8px;
+  
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.newsletter-box h2 {
+  margin-bottom: 1.5rem;
+}
+
+ 
+
+.newsletter-box input {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.newsletter-box button {
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ 
