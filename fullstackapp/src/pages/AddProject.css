@@ -7,7 +7,7 @@
   padding-bottom: 300px;
   background-repeat: no-repeat;
    
-   background-image: url('E:\Coding Assignment\fullstackapp\public\assets\images\young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home 1.svg');
+  background-image: url('/public/assets/images/young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home\ 1.svg');
   color: #333;
 }
 
