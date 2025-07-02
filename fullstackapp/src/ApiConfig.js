@@ -10,7 +10,7 @@ const ApiConfig = {
   GET_CLIENTS: `${BASE_URL}/clients/fetch`,
   GET_CONTACTS: `${BASE_URL}/contacts/getContact`,
   GET_SUBSCRIBERS: `${BASE_URL}/newsletter/getSubscribe`,
-  UPLOAD: `${BASE_URL}//uploads`
+  UPLOAD: `${BASE_URL}/uploads`
 };
 
 export default ApiConfig;
